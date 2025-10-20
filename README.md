@@ -1,4 +1,4 @@
-# Website
+# Website 1.2
 
 [docs.animeswap.org](https://docs.animeswap.org)
 
